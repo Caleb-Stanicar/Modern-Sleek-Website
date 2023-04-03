@@ -1,0 +1,15 @@
+.App {
+  text-align: right;
+}
+.App-body {
+  background-color: rgb(46, 38, 38);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 2vmin;
+  color:bisque;
+}
+h1 {
+  margin: 0;
+}
